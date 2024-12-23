@@ -1,0 +1,2 @@
+# R Subsetting Bug
+This repository demonstrates a common, yet subtle, error in R related to subsetting data frames using logical conditions. The `bug.R` file contains code that produces unexpected results due to operator precedence and how R handles logical indexing.  The `bugSolution.R` provides the correct way to achieve the desired subsetting.
